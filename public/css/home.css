@@ -154,7 +154,7 @@ button g.svg {
     grid-area: main;
     margin: 100px auto;
     width: min(1200px,100%);
-    /* overflow: hidden; */
+     overflow: hidden;
 }
 
 .main-container {
