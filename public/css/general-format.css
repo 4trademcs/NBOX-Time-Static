@@ -164,7 +164,7 @@ div.flexbox.modal {
 }
 /* --------slider-static-------- */
 .slider-static{
-    width: 450px;
+    width: 400px;
     aspect-ratio: 1/1;
     position: relative;
     display: flex;
